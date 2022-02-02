@@ -8,6 +8,9 @@ print(f'\t\t{green}Username Scraper Tool by @E4CRYPT3D{reset}\n')
 print(f"{red}NOTE:This might not be 100% accurate...\n")
 print(f"NOTE: Use this for only educational purpose{reset}\n")
 from social_sites import social_sites,username
+if username == '' or username.isdigit():
+    print(f'{red}Please enter a valid username{reset}')
+    exit()
 
 for social, social_link in social_sites.items():
     try:
