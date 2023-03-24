@@ -43,3 +43,5 @@ ____________________________________________________________________
 
 ## Contributing
 Contributions are welcome! If you find any issues or have any suggestions for improvement, feel free to create an issue or pull request.
+
+***DISCLAIMER**: This tool is for educational purposes only. The author and contributors are not responsible for any misuse or illegal activity caused by this tool. Use this tool at your own risk. The results provided by this tool may not be 100% accurate and should be taken as a guide only. Use of this tool may violate the terms of service of the websites it targets. The author and contributors are not responsible for any violations.*
